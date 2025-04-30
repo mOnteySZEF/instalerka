@@ -10,5 +10,3 @@ Write-Host "uzytkownik $username został utworzony!"
 }
 
 Start-Process "C:\Windows\System32\Logoff.exe"
-
-© FazeRP.eu - Skopiowano z notatek, pozdrawiam mOntey
